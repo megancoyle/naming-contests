@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 class Contest extends Component {
   render() {
-    return(
+    return (
       <div className="Contest">
         {this.props.description}
       </div>
@@ -13,6 +13,6 @@ class Contest extends Component {
 
 Contest.propTypes = {
   description: PropTypes.string.isRequired
-}
+};
 
 export default Contest;
