@@ -18,17 +18,17 @@
     "url": "https://github.com/megancoyle/naming-contests/issues"
   },
   "homepage": "https://github.com/megancoyle/naming-contests#readme",
-    "dependencies": {
+  "dependencies": {
     "axios": "^0.15.0",
-    "body-parser": "^1.15.2",
+    "body-parser": "^1.17.1",
     "ejs": "^2.5.2",
     "express": "^4.14.0",
     "json-loader": "^0.5.4",
     "mongodb": "^2.2.10",
     "node-sass-middleware": "^0.9.8",
+    "prop-types": "^15.5.8",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2",
-    "prop-types": "^15.5.8"
+    "react-dom": "^15.3.2"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
